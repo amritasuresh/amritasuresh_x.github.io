@@ -2,6 +2,8 @@
 layout: home
 title: About me
 ---
+# <img src="pictures/picture3.png" style="float: left;" alt="drawing" width="300"/>
+
 I pursued a MS in Computer Science at [ENS Paris Saclay], in Theoretical Computer Science.
 
 I got my B.E.(Hons) in Computer Science from Birla Institute of Technology & Science, Pilani, India in 2016.
